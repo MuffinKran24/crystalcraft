@@ -1,2 +1,3 @@
-# execute as @a[scores={joined_game=1..}] run title @s actionbar ["",{"text":"Willkommen zurück, "}, {"selector":"@s"}, {"text":"!"}]
-# execute as @a[scores={joined_game=1..}] run scoreboard players reset @s joined_game
+
+
+

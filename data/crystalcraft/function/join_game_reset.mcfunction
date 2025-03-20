@@ -1,0 +1,1 @@
+execute as @a[scores={joined_game=1..}] run scoreboard players reset @s joined_game
