@@ -1,7 +1,6 @@
 {
     "values":[
         "crystalcraft:tick",
-        "crystalcraft:check_pig",
-        "crystalcraft:join_game"
+        "crystalcraft:check_pig"
     ]
 }
