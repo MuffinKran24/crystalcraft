@@ -4,7 +4,7 @@ execute as @p at @s run summon minecraft:pig ~ ~-1 ~ {Invulnerable:1b, Silent:1b
 
 #execute as @p at @s run tp @e[type=pig, tag=invisible_pig, limit=1] @s
 
-execute as @p at @s run ride @s mount @e[type=pig, tag=invisible_pig, limit=1]
+execute as @p at @s run ride @s mount @e[type=pig, tag=invisible_pig, limit=1, distance=..1]
 
 execute as @p run effect give @e[type=pig, tag=invisible_pig] invisibility infinite 1 true
 
